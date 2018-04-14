@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522426821 source:d:\programe\gunoi\main.cpp
+	<iostream>
+	<string.h>
+
+1523280159 source:d:\programe\gunoi\smotocel_++.cpp
+	<iostream>
+	<fstream>
+
+1523275683 source:d:\programe\gunoi\bac.in.cpp
+
